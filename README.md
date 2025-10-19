@@ -17,3 +17,12 @@ In order to properly use this repository, you need to install the Arduino IDE an
 
 
 <img width="2683" height="1666" alt="Wardriver_Diagram (1)" src="https://github.com/user-attachments/assets/80874216-fc8a-4e0d-bb3e-0999785b6aae" />
+
+
+# Inspiration Projects
+
+This project was inspired by the following resources and projects, which served as a foundation for its development:
+
+- [ESPProLib](https://github.com/RicardoOliveira/ESPProLib): from RicardoOliveira.
+- [ESP8266-Wardriving](https://github.com/AlexLynd/ESP8266-Wardriving) from AlexLynd
+- [wardriver3000](https://github.com/cifertech/wardriver3000/tree/main) from cifertech.
